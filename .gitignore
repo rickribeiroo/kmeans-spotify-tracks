@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+
+# Dados (baixar do Kaggle) e artefatos regeneráveis
+dataset.csv
+dataset_processed.csv
+scaler.joblib
+
+# Roteiros de apresentação
+ROTEIRO.md
+roteiro_slides.md
